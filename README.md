@@ -5,6 +5,23 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/Khaled-Z-cloud/Handball-Highlights-Maker/releases/latest"><img src="https://img.shields.io/github/v/release/Khaled-Z-cloud/Handball-Highlights-Maker?label=release&color=0a84ff" alt="Latest release"></a>
+  <a href="https://github.com/Khaled-Z-cloud/Handball-Highlights-Maker/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Freeware-0a84ff" alt="License"></a>
+  <a href="https://github.com/Khaled-Z-cloud/Handball-Highlights-Maker/releases"><img src="https://img.shields.io/github/downloads/Khaled-Z-cloud/Handball-Highlights-Maker/total?color=0a84ff" alt="Downloads"></a>
+  <img src="https://img.shields.io/badge/platform-Windows-0a84ff" alt="Windows">
+</p>
+
+<p align="center">
+  <a href="#features">Features</a> ·
+  <a href="#download">Download</a> ·
+  <a href="#quick-start">Quick start</a> ·
+  <a href="#default-keyboard-shortcuts">Shortcuts</a> ·
+  <a href="#frequently-asked-questions">FAQ</a>
+</p>
+
+---
+
 ## What it does
 
 Handball Highlights Maker turns a full handball match recording into its highlights.
