@@ -1,0 +1,60 @@
+HANDBALL HIGHLIGHTS MAKER — FREEWARE LICENSE
+
+Copyright (c) 2026 Khaled Zerrim. All rights reserved.
+
+Please read these terms. By downloading, installing or using Handball Highlights
+Maker (the "Software"), you agree to them. If you do not agree, do not use the Software.
+
+1. GRANT OF LICENSE
+   You are granted a free, non-exclusive, non-transferable, revocable license to
+   download, install and use the Software on any number of your own computers, for
+   personal, educational, club or commercial purposes.
+
+2. YOUR VIDEOS AND OUTPUT
+   The videos you create with the Software belong to you (or to whoever owns the
+   source footage). The Software does not add any claim, mark or restriction to them.
+   You are solely responsible for having the right to use, edit and publish the
+   footage you process and any watermark image you apply.
+
+3. RESTRICTIONS
+   Except where this license or applicable law expressly allows it, you may not:
+   a) copy, redistribute, publish, sell, rent, lease or sublicense the Software, or
+      offer it for download anywhere other than its official GitHub releases page;
+   b) modify the Software or create derivative works based on it;
+   c) decompile, disassemble or reverse engineer the Software, or attempt to extract
+      its source code;
+   d) remove or alter any copyright, author or license notice in the Software.
+   You may share links to the official releases page.
+
+4. THIRD-PARTY COMPONENTS
+   The Software includes third-party open-source components (listed in
+   THIRD_PARTY_NOTICES.md). They remain under their own licenses, which apply to those
+   components only. Nothing in this license restricts any rights you have under those
+   licenses, including your rights under the GNU Lesser General Public License for
+   the components that use it.
+
+5. OWNERSHIP
+   The Software is licensed, not sold. Khaled Zerrim retains all ownership and
+   intellectual property rights in the Software, including its name, logo and artwork.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY
+   (INCLUDING THE ACCURACY OF AUTOMATIC GOAL DETECTION) AND NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY
+   DAMAGES — INCLUDING LOST DATA, LOST PROFITS OR DAMAGE TO FILES — ARISING FROM THE USE
+   OF, OR INABILITY TO USE, THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+   DAMAGES. Always keep a backup of your original videos.
+
+8. TERMINATION
+   This license ends automatically if you breach it. On termination you must stop using
+   the Software and delete all copies.
+
+9. CHANGES AND GOVERNING LAW
+   The author may release new versions under updated terms. This license is governed by
+   the laws of Tunisia, without regard to conflict-of-law rules, except where mandatory
+   consumer-protection law of your country provides otherwise.
+
+Contact: https://github.com/Khaled-Z-cloud/
