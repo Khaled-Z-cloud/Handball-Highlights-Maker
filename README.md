@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Khaled-Z-cloud/Handball-Highlights-Maker/releases/latest"><img src="https://img.shields.io/github/v/release/Khaled-Z-cloud/Handball-Highlights-Maker?label=release&color=0a84ff" alt="Latest release"></a>
-  <a href="https://github.com/Khaled-Z-cloud/Handball-Highlights-Maker/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Freeware-0a84ff" alt="License"></a>
+  <a href="https://github.com/Khaled-Z-cloud/Handball-Highlights-Maker/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Freeware-0a84ff?style=flat" alt="License"></a>
   <a href="https://github.com/Khaled-Z-cloud/Handball-Highlights-Maker/releases"><img src="https://img.shields.io/github/downloads/Khaled-Z-cloud/Handball-Highlights-Maker/total?color=0a84ff" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/platform-Windows-0a84ff" alt="Windows">
 </p>
