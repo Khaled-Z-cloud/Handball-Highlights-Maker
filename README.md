@@ -1,7 +1,7 @@
 <p align="center"><img src="docs/logo.png" width="140" alt="Handball Highlights Maker logo"></p>
 
 <h1 align="center">Handball Highlights Maker</h1>
-<p align="center">Turn a full handball match recording into its highlights — automatically.<br>Free for Windows · works offline · Tunation</p>
+<p align="center">Turn a full handball match recording into its highlights — automatically.<br>Free for Windows · works offline <br>Tunation</p>
 
 ---
 
