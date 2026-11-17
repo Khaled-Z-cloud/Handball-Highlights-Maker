@@ -7,6 +7,7 @@
 
 ## What it does
 
+Handball Highlights Maker turns a full handball match recording into its highlights.
 Drop a match video into the app and draw a box around the on-screen scoreboard. Handball Highlights Maker reads the score, finds every goal, and cuts a clip around each one. You can then fine-tune every clip and export the goals as separate clips and/or one combined highlights video — with elegant transitions and your own watermark if you like.
 
 <p align="center"><img src="docs/01_open_detect.gif" width="680" alt="Open a video and detect the goals"></p>
