@@ -38,6 +38,8 @@ Drop a match video into the app and draw a box around the on-screen scoreboard. 
 - **Export your way:** each goal separately, one combined video, or both. Automatic quality, or choose resolution, bitrate, codec and frame rate.
 - **Transitions:** none, fade through black, or dissolve.
 - **Watermark:** place, resize and crop your logo on a virtual screen; it is applied identically at any video resolution.
+- **Live progress:** while detecting goals you see the goals found so far and how far into the video the app has got — press **Stop** to keep what was found. Exporting shows which goal is being processed.
+- **Video information:** press `Ctrl+I` for duration, resolution, frame rate, codecs, bitrate and more.
 - **Presets, themes, custom shortcuts:** dark (default) or light theme, every shortcut can be changed, settings can be saved as presets.
 - **Offline & private:** your videos never leave your PC.
 
@@ -69,11 +71,16 @@ The full illustrated manual is inside the app: **Help → How to**.
 
 | Action | Shortcut | Action | Shortcut |
 |---|---|---|---|
-| Play / pause | `Space` | Add clip at playhead | `A` |
-| Play selected clip | `P` | Delete clip | `Del` |
-| Previous / next clip | `↑` / `↓` | Delete all goals | `Ctrl+Shift+D` |
-| Start earlier / later (0.5 s) | `Ctrl+←` / `Ctrl+→` | Undo / Redo | `Ctrl+Z` / `Ctrl+Y` |
-| End earlier / later (0.5 s) | `Alt+←` / `Alt+→` | Save session | `Ctrl+S` |
+| Open video | `Ctrl+O` | Add clip at playhead | `A` |
+| Draw scoreboard box | `Ctrl+B` | Delete clip | `Del` |
+| Detect goals | `Ctrl+D` | Delete all goals | `Ctrl+Shift+D` |
+| Export | `Ctrl+E` | Undo / Redo | `Ctrl+Z` / `Ctrl+Y` |
+| Open settings | `Ctrl+Space` | Save session | `Ctrl+S` |
+| Check update | `F5` | Play / pause | `Space` |
+| How to (manual) | `F1` | Play selected clip | `P` |
+| About | `F2` | Previous / next clip | `↑` / `↓` |
+| Start earlier / later (0.5 s) | `Ctrl+←` / `Ctrl+→` | End earlier / later (0.5 s) | `Alt+←` / `Alt+→` |
+| Video information | `Ctrl+I` | | |
 
 All shortcuts can be changed in **Settings → Shortcuts**.
 
@@ -101,4 +108,4 @@ Handball Highlights Maker is **free software for you to use, but it is not open 
 
 ## Author
 
-**Khaled Zerrim** — Tunisia 🇹🇳 · [github.com/Khaled-Z-cloud](https://github.com/Khaled-Z-cloud/)
+**Khaled Z.** — Tunisia 🇹🇳 · [github.com/Khaled-Z-cloud](https://github.com/Khaled-Z-cloud/)
