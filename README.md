@@ -95,11 +95,11 @@ All shortcuts can be changed in **Settings → Shortcuts**.
 ## Frequently asked questions
 
 **Is it really free ?** Yes — see the license below.
-**Does it upload my videos ?** No. Everything runs on your computer. The only network access is *Check update* (and downloading the new version if you choose to update).
-**Which video formats work ?** MP4, MKV, MOV, AVI, TS, M4V, WMV and WebM.
-**Where are my settings stored ?** In `%APPDATA%\HandballHighlightsMaker\` (settings, presets and your saved session).
-**Mac / Linux?** Not available yet.
-**Can it be used for other scoreboard games (ex: Basketball, Volleyball...) ?** Yes. It can also be used on any scoreboard game besides Handball, but it is more suited for Handball.
+<br>**Does it upload my videos ?** No. Everything runs on your computer. The only network access is *Check update* (and downloading the new version if you choose to update).
+<br>**Which video formats work ?** MP4, MKV, MOV, AVI, TS, M4V, WMV and WebM.
+<br>**Where are my settings stored ?** In `%APPDATA%\HandballHighlightsMaker\` (settings, presets and your saved session).
+<br>**Mac / Linux?** Not available yet.
+<br>**Can it be used for other scoreboard games (ex: Basketball, Volleyball...) ?** Yes. It can also be used on any scoreboard game besides Handball, but it is more suited for Handball.
 
 ## Feedback & bugs
 
