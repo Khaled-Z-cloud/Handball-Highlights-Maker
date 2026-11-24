@@ -26,7 +26,6 @@
 
 Handball Highlights Maker turns a full handball match recording into its highlights.
 Drop a match video into the app and draw a box around the on-screen scoreboard. Handball Highlights Maker reads the score, finds every goal, and cuts a clip around each one. You can then fine-tune every clip and export the goals as separate clips and/or one combined highlights video — with elegant transitions and your own watermark if you like.
-<br>The application can also be used on any scoreboard game besides Handball (ex: Basketball, Volleyball...), but it is more suited for Handball.
 
 <p align="center"><img src="docs/01_open_detect.gif" width="680" alt="Open a video and detect the goals"></p>
 
@@ -99,7 +98,7 @@ All shortcuts can be changed in **Settings → Shortcuts**.
 <br>**Which video formats work ?** MP4, MKV, MOV, AVI, TS, M4V, WMV and WebM.
 <br>**Where are my settings stored ?** In `%APPDATA%\HandballHighlightsMaker\` (settings, presets and your saved session).
 <br>**Mac / Linux?** Not available yet.
-<br>**Can it be used for other scoreboard games (ex: Basketball, Volleyball...) ?** Yes. It can also be used on any scoreboard game besides Handball, but it is more suited for Handball.
+<br>**Can it be used for other scoreboard games ?** Yes. by modifying the settings, it can also be used on any scoreboard game besides Handball where the score increments by 1 goal/point (ex: Volleyball...), but it is more suited for Handball.
 
 ## Feedback & bugs
 
